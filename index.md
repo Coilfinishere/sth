@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 2cy.rip
+
+https://zhuanlan.zhihu.com/p/255608579
 
 You can use the [editor on GitHub](https://github.com/Coilfinishere/sth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
