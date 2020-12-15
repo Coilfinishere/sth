@@ -1,14 +1,12 @@
 ## Project Spica
 
-沙雕东西持续更新ing...
-
-现在是马保国被封杀的时代
+现在是赛博朋克2077时代
 
 大人，时代变了。
 
-Latest Update : 11/30
+Latest Update : 12/15
 
-球球你们在班上看b站的时候开无痕吧
+~~球球你们在班上看b站的时候开无痕吧~~
 
 <https://zhuanlan.zhihu.com/p/255608579>
 
@@ -35,3 +33,7 @@ Latest Update : 11/30
 <https://www.zhihu.com/answer/1595955758>
 
 <https://b23.tv/7Tga8L>
+
+<https://weiboint.api.weibo.com><http://weibointl.api.weibo.com/share/190135254.html?weibo_id=4580381339158363>
+
+<https://sm.ms/share><http://pic.ecpa.club/image/1bxfye2crkg7cnd9uib33c64x.63yT>
