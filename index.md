@@ -34,6 +34,6 @@ Latest Update : 12/15
 
 <https://b23.tv/7Tga8L>
 
-<https://weiboint.api.weibo.com><http://weibointl.api.weibo.com/share/190135254.html?weibo_id=4580381339158363>
+[https://weiboint.api.weibo.com](http://weibointl.api.weibo.com/share/190135254.html?weibo_id=4580381339158363)
 
-<https://sm.ms/share><http://pic.ecpa.club/image/1bxfye2crkg7cnd9uib33c64x.63yT>
+[https://sm.ms/share](http://pic.ecpa.club/image/1bxfye2crkg7cnd9uib33c64x.63yT)
