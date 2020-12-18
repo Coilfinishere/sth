@@ -2,9 +2,13 @@
 
 现在是赛博朋克2077时代
 
+#肖战粉丝乱调 CloudFlare 路由导致 CloudFlare 离线一小时
+
+#肖战粉丝乱调 Google 缓存，导致 Google 所有服务瘫痪45分钟
+
 大人，时代变了。
 
-Latest Update : 12/15
+Latest Update : 12/18
 
 ~~球球你们在班上看b站的时候开无痕吧~~
 
@@ -37,3 +41,5 @@ Latest Update : 12/15
 [https://weiboint.api.weibo.com](http://weibointl.api.weibo.com/share/190135254.html?weibo_id=4580381339158363)
 
 [https://sm.ms/share](http://pic.ecpa.club/image/1bxfye2crkg7cnd9uib33c64x.63yT)
+
+<https://coilfinishere.github.io/Share/>
